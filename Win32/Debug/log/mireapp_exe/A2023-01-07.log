@@ -1,0 +1,267 @@
+mireapp.exe: 00000E14: 16:25:18 []:>--------------------------------------------------------------<
+mireapp.exe: 00000E14: 16:25:18 [TUniServerModule]:Server First Init.
+mireapp.exe: 00000E14: 16:25:18 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 00000E14: 16:25:18 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 00000E14: 16:25:18 [TUniServerModule]:Starting HTTP Server on Port: 9096...
+mireapp.exe: 00000E14: 16:25:18 [TUniServerModule]:HTTP Server Started on Port: 9096
+mireapp.exe: 00002FA0: 16:26:03 []:>--------------------------------------------------------------<
+mireapp.exe: 00002FA0: 16:26:03 [TUniServerModule]:Server First Init.
+mireapp.exe: 00002FA0: 16:26:03 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 00002FA0: 16:26:03 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 00002FA0: 16:26:03 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 00002FA0: 16:26:03 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 00002894: 16:26:22 [loja: Field 'banco' not found-127.0.0.1]:EDatabaseError : loja: Field 'banco' not found : Addr: $0088084E
+mireapp.exe: 00004410: 16:30:37 []:>--------------------------------------------------------------<
+mireapp.exe: 00004410: 16:30:37 [TUniServerModule]:Server First Init.
+mireapp.exe: 00004410: 16:30:37 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 00004410: 16:30:37 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 00004410: 16:30:37 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 00004410: 16:30:38 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 00004410: 16:30:38 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 0000271C: 16:30:54 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: EKox1WOZb510BD35CA0 ) : Addr: $01082882
+mireapp.exe: 00003C64: 16:31:04 [127.0.0.1]:EDatabaseError : dbcomboboxbanco: Field 'banco' not found : Addr: $00F5084E
+mireapp.exe: 00003C64: 16:31:05 [127.0.0.1]:EDatabaseError : UniDBLookupComboBox1: Field 'banco' not found : Addr: $00F5084E
+mireapp.exe: 00003C64: 16:31:06 [127.0.0.1]:EDatabaseError : UniDBLookupComboBox2: Field 'banco' not found : Addr: $00F5084E
+mireapp.exe: 000004D4: 16:31:57 []:>--------------------------------------------------------------<
+mireapp.exe: 000004D4: 16:31:57 [TUniServerModule]:Server First Init.
+mireapp.exe: 000004D4: 16:31:57 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 000004D4: 16:31:57 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 000004D4: 16:31:57 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 000004D4: 16:31:57 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 000004D4: 16:31:57 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 00003A74: 16:32:02 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: NxRObvtyIM10BD35DDE ) : Addr: $00442882
+mireapp.exe: 00005AF8: 16:32:13 [127.0.0.1]:EDatabaseError : UniDBLookupComboBox2: Field 'banco' not found : Addr: $0031084E
+mireapp.exe: 000041F4: 16:35:22 []:>--------------------------------------------------------------<
+mireapp.exe: 000041F4: 16:35:22 [TUniServerModule]:Server First Init.
+mireapp.exe: 000041F4: 16:35:22 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 000041F4: 16:35:22 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 000041F4: 16:35:22 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 000041F4: 16:35:22 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 000041F4: 16:35:22 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 00005B84: 16:35:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 8rmK1YAgy310BD35E37 ) : Addr: $01292882
+mireapp.exe: 00004A8C: 16:39:59 []:>--------------------------------------------------------------<
+mireapp.exe: 00004A8C: 16:39:59 [TUniServerModule]:Server First Init.
+mireapp.exe: 00004A8C: 16:39:59 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 00004A8C: 16:39:59 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 00004A8C: 16:39:59 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 00004A8C: 16:39:59 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 00004A8C: 16:39:59 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 00004450: 16:40:03 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: nmehGwDfpK10BD35F59 ) : Addr: $01152882
+mireapp.exe: 00001F08: 16:41:54 []:>--------------------------------------------------------------<
+mireapp.exe: 00001F08: 16:41:54 [TUniServerModule]:Server First Init.
+mireapp.exe: 00001F08: 16:41:54 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 00001F08: 16:41:54 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 00001F08: 16:41:54 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 00001F08: 16:41:54 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 00001F08: 16:41:54 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 0000546C: 17:28:51 []:>--------------------------------------------------------------<
+mireapp.exe: 0000546C: 17:28:51 [TUniServerModule]:Server First Init.
+mireapp.exe: 0000546C: 17:28:51 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 0000546C: 17:28:51 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 0000546C: 17:28:51 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 0000546C: 17:28:51 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 0000546C: 17:28:52 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 00001D08: 17:29:03 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: wNEa8UauBm10BD360F8 ) : Addr: $00622882
+mireapp.exe: 000022A0: 17:29:49 [127.0.0.1]:EMySQLNativeException : [FireDAC][Phys][MySQL] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by receber, centro, tipo, descricao, month(pago) order by receber desc, centro, ' at line 1 : Addr: $00708584
+mireapp.exe: 00003DF4: 17:30:41 []:>--------------------------------------------------------------<
+mireapp.exe: 00003DF4: 17:30:41 [TUniServerModule]:Server First Init.
+mireapp.exe: 00003DF4: 17:30:41 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 00003DF4: 17:30:41 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 00003DF4: 17:30:41 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 00003DF4: 17:30:41 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 00003DF4: 17:30:41 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 00000FD8: 17:30:48 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: IwHSyHynnK10BD36DB1 ) : Addr: $00722882
+mireapp.exe: 000037C8: 17:32:04 []:>--------------------------------------------------------------<
+mireapp.exe: 000037C8: 17:32:04 [TUniServerModule]:Server First Init.
+mireapp.exe: 000037C8: 17:32:04 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 000037C8: 17:32:04 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 000037C8: 17:32:04 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 000037C8: 17:32:04 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 000037C8: 17:32:04 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 000036E0: 17:32:06 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: gMWrMkMBHd10BD36E2B ) : Addr: $00E02882
+mireapp.exe: 0000157C: 17:35:22 []:>--------------------------------------------------------------<
+mireapp.exe: 0000157C: 17:35:22 [TUniServerModule]:Server First Init.
+mireapp.exe: 0000157C: 17:35:22 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 0000157C: 17:35:22 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 0000157C: 17:35:22 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 0000157C: 17:35:22 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 0000157C: 17:35:22 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 00004D08: 17:35:26 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: SoCGMKzFlk10BD36E8A ) : Addr: $00922882
+mireapp.exe: 00004C4C: 17:36:42 []:>--------------------------------------------------------------<
+mireapp.exe: 00004C4C: 17:36:42 [TUniServerModule]:Server First Init.
+mireapp.exe: 00004C4C: 17:36:42 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 00004C4C: 17:36:42 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 00004C4C: 17:36:42 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 00004C4C: 17:36:42 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 00004C4C: 17:36:42 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 00000990: 17:36:46 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: C4N7rZEI4x10BD36F70 ) : Addr: $00862882
+mireapp.exe: 00003EE4: 17:37:26 []:>--------------------------------------------------------------<
+mireapp.exe: 00003EE4: 17:37:26 [TUniServerModule]:Server First Init.
+mireapp.exe: 00003EE4: 17:37:26 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 00003EE4: 17:37:26 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 00003EE4: 17:37:26 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 00003EE4: 17:37:26 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 00003EE4: 17:37:26 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 000048B4: 17:37:28 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: IGK8cimIpL10BD36FCD ) : Addr: $00A42882
+mireapp.exe: 00004DC4: 17:38:46 []:>--------------------------------------------------------------<
+mireapp.exe: 00004DC4: 17:38:46 [TUniServerModule]:Server First Init.
+mireapp.exe: 00004DC4: 17:38:46 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 00004DC4: 17:38:46 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 00004DC4: 17:38:46 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 00004DC4: 17:38:46 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 00004DC4: 17:38:46 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 00000BA0: 17:38:50 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: f1ZBeKD1tX10BD36FFE ) : Addr: $00592882
+mireapp.exe: 000036F8: 17:39:22 []:>--------------------------------------------------------------<
+mireapp.exe: 000036F8: 17:39:22 [TUniServerModule]:Server First Init.
+mireapp.exe: 000036F8: 17:39:22 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 000036F8: 17:39:22 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 000036F8: 17:39:22 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 000036F8: 17:39:22 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 000036F8: 17:39:22 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 00004B60: 17:39:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 7nN3U5dvyi10BD3705D ) : Addr: $00472882
+mireapp.exe: 000026E8: 17:44:40 []:>--------------------------------------------------------------<
+mireapp.exe: 000026E8: 17:44:40 [TUniServerModule]:Server First Init.
+mireapp.exe: 000026E8: 17:44:40 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 000026E8: 17:44:40 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 000026E8: 17:44:40 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 000026E8: 17:44:41 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 000026E8: 17:44:41 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 00001B20: 17:44:46 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: thvaGUiW1I10BD37087 ) : Addr: $00942882
+mireapp.exe: 000012B8: 17:47:29 []:>--------------------------------------------------------------<
+mireapp.exe: 000012B8: 17:47:29 [TUniServerModule]:Server First Init.
+mireapp.exe: 000012B8: 17:47:29 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 000012B8: 17:47:29 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 000012B8: 17:47:29 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 000012B8: 17:47:29 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 000012B8: 17:47:29 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 00003740: 17:47:37 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: mDbvAENbD110BD371F6 ) : Addr: $005F2882
+mireapp.exe: 00004554: 17:51:15 []:>--------------------------------------------------------------<
+mireapp.exe: 00004554: 17:51:15 [TUniServerModule]:Server First Init.
+mireapp.exe: 00004554: 17:51:15 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 00004554: 17:51:15 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 00004554: 17:51:15 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 00004554: 17:51:15 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 00004554: 17:51:15 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 000004A8: 17:51:19 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: VP26hLEyot10BD372B8 ) : Addr: $00852882
+mireapp.exe: 00005174: 17:52:30 []:>--------------------------------------------------------------<
+mireapp.exe: 00005174: 17:52:30 [TUniServerModule]:Server First Init.
+mireapp.exe: 00005174: 17:52:30 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 00005174: 17:52:30 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 00005174: 17:52:30 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 00005174: 17:52:30 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 00005174: 17:52:30 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 000020E0: 17:52:39 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: nMqjr3H7yw10BD373BC ) : Addr: $00CB2882
+mireapp.exe: 00002344: 18:02:58 []:>--------------------------------------------------------------<
+mireapp.exe: 00002344: 18:02:58 [TUniServerModule]:Server First Init.
+mireapp.exe: 00002344: 18:02:58 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 00002344: 18:02:58 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 00002344: 18:02:58 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 00002344: 18:02:58 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 00002344: 18:02:58 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 00004174: 18:03:24 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: HdnKFa8fLh10BD37418 ) : Addr: $007D2882
+mireapp.exe: 00001468: 18:04:35 []:>--------------------------------------------------------------<
+mireapp.exe: 00001468: 18:04:35 [TUniServerModule]:Server First Init.
+mireapp.exe: 00001468: 18:04:35 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 00001468: 18:04:35 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 00001468: 18:04:35 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 00001468: 18:04:36 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 00001468: 18:04:36 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 00003328: 18:04:42 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 7zFucQvpm510BD37703 ) : Addr: $00532882
+mireapp.exe: 000020FC: 18:07:20 []:>--------------------------------------------------------------<
+mireapp.exe: 000020FC: 18:07:20 [TUniServerModule]:Server First Init.
+mireapp.exe: 000020FC: 18:07:20 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 000020FC: 18:07:20 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 000020FC: 18:07:20 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 000020FC: 18:07:20 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 000020FC: 18:07:21 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 000057D4: 18:07:23 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 2ryyQcTINs10BD3775A ) : Addr: $00AB2882
+mireapp.exe: 00003734: 18:16:11 []:>--------------------------------------------------------------<
+mireapp.exe: 00003734: 18:16:11 [TUniServerModule]:Server First Init.
+mireapp.exe: 00003734: 18:16:11 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 00003734: 18:16:11 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 00003734: 18:16:11 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 00003734: 18:16:11 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 00003734: 18:16:11 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 00003FB4: 18:16:14 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: kh6xIGHfwb10BD37819 ) : Addr: $012A2882
+mireapp.exe: 0000128C: 18:16:55 []:>--------------------------------------------------------------<
+mireapp.exe: 0000128C: 18:16:55 [TUniServerModule]:Server First Init.
+mireapp.exe: 0000128C: 18:16:55 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 0000128C: 18:16:55 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 0000128C: 18:16:55 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 0000128C: 18:16:55 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 0000128C: 18:16:55 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 0000399C: 18:16:59 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: A2o35IQ55h10BD37A80 ) : Addr: $00CB2882
+mireapp.exe: 000021F8: 20:27:01 []:>--------------------------------------------------------------<
+mireapp.exe: 000021F8: 20:27:01 [TUniServerModule]:Server First Init.
+mireapp.exe: 000021F8: 20:27:01 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 000021F8: 20:27:01 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 000021F8: 20:27:01 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 000021F8: 20:27:01 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 000021F8: 20:27:01 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 000055A4: 20:28:49 []:>--------------------------------------------------------------<
+mireapp.exe: 000055A4: 20:28:49 [TUniServerModule]:Server First Init.
+mireapp.exe: 000055A4: 20:28:49 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 000055A4: 20:28:49 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 000055A4: 20:28:49 [TUniGUISessionManager]:Cache erase job created, Folder count: [2]
+mireapp.exe: 000055A4: 20:28:49 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 000055A4: 20:28:49 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 0000029C: 20:28:52 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: xJMdBCRs7g10BD39E17 ) : Addr: $011F2882
+mireapp.exe: 00004FF0: 20:29:15 [127.0.0.1]:EMySQLNativeException : [FireDAC][Phys][MySQL] Column 'idloja' in where clause is ambiguous : Addr: $012D8584
+mireapp.exe: 000035BC: 20:30:11 []:>--------------------------------------------------------------<
+mireapp.exe: 000035BC: 20:30:11 [TUniServerModule]:Server First Init.
+mireapp.exe: 000035BC: 20:30:11 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 000035BC: 20:30:11 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 000035BC: 20:30:11 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 000035BC: 20:30:11 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 000035BC: 20:30:11 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 000034D4: 20:30:13 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: jqczhH5aGA10BD39E7B ) : Addr: $005A2882
+mireapp.exe: 00003F98: 20:32:59 []:>--------------------------------------------------------------<
+mireapp.exe: 00003F98: 20:32:59 [TUniServerModule]:Server First Init.
+mireapp.exe: 00003F98: 20:32:59 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 00003F98: 20:32:59 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 00003F98: 20:32:59 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 00003F98: 20:32:59 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 00003F98: 20:32:59 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 00000928: 20:33:04 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: xsAhfgbIQK10BD39ED9 ) : Addr: $00D72882
+mireapp.exe: 00004B10: 20:34:03 []:>--------------------------------------------------------------<
+mireapp.exe: 00004B10: 20:34:03 [TUniServerModule]:Server First Init.
+mireapp.exe: 00004B10: 20:34:03 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 00004B10: 20:34:03 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 00004B10: 20:34:03 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 00004B10: 20:34:03 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 00004B10: 20:34:03 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 00005A50: 20:34:07 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: woAWITRkww10BD39F9E ) : Addr: $00612882
+mireapp.exe: 00003444: 20:36:24 []:>--------------------------------------------------------------<
+mireapp.exe: 00003444: 20:36:24 [TUniServerModule]:Server First Init.
+mireapp.exe: 00003444: 20:36:24 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 00003444: 20:36:24 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 00003444: 20:36:24 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 00003444: 20:36:24 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 00003444: 20:36:24 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 00001554: 20:36:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 3JCsYpitZx10BD39FE7 ) : Addr: $008B2882
+mireapp.exe: 00004914: 20:36:50 [127.0.0.1]:EFDException : [FireDAC][Phys][MySQL]-335. Parameter [IDVENDA] data type is unknown. Hint: specify TFDParam.DataType or assign TFDParam value before Prepare/Execute call : Addr: $008FB5B0
+mireapp.exe: 00003408: 20:40:43 []:>--------------------------------------------------------------<
+mireapp.exe: 00003408: 20:40:43 [TUniServerModule]:Server First Init.
+mireapp.exe: 00003408: 20:40:43 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 00003408: 20:40:43 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 00003408: 20:40:43 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 00003408: 20:40:43 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 00003408: 20:40:43 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 000043C8: 20:40:48 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: DokveUrU2I10BD3A089 ) : Addr: $006F2882
+mireapp.exe: 00002180: 20:42:22 [127.0.0.1]:EMySQLNativeException : [FireDAC][Phys][MySQL] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and i.idloja=' at line 1 : Addr: $007D8584
+mireapp.exe: 000047EC: 20:43:09 []:>--------------------------------------------------------------<
+mireapp.exe: 000047EC: 20:43:09 [TUniServerModule]:Server First Init.
+mireapp.exe: 000047EC: 20:43:09 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 000047EC: 20:43:09 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 000047EC: 20:43:09 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 000047EC: 20:43:10 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 000047EC: 20:43:10 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 00004A9C: 20:43:23 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: xOEuRiyKNO10BD3A1B7 ) : Addr: $00FD2882
+mireapp.exe: 00003E38: 20:45:35 []:>--------------------------------------------------------------<
+mireapp.exe: 00003E38: 20:45:35 [TUniServerModule]:Server First Init.
+mireapp.exe: 00003E38: 20:45:35 [TUniServerModule]:Start Path = C:\Users\ZHU\OneDrive\Documentos\Embarcadero\Studio\Projects\alexandria\mireapp\Win32\Debug\
+mireapp.exe: 00003E38: 20:45:35 [TUniServerModule]:Debug Mode = ON
+mireapp.exe: 00003E38: 20:45:35 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+mireapp.exe: 00003E38: 20:45:35 [TUniServerModule]:Starting HTTP Server on Port: 9097...
+mireapp.exe: 00003E38: 20:45:35 [TUniServerModule]:HTTP Server Started on Port: 9097
+mireapp.exe: 000016FC: 20:45:40 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: e4xcvMjSiR10BD3A26A ) : Addr: $003B2882
